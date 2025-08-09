@@ -17,4 +17,4 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 git clone https://github.com/lxiaya/openwrt-homeproxy package/homeproxy
-git clone https://github.com/lxiaya/openwrt-homeproxy package/vlmcsd
+git clone https://github.com/cokebar/openwrt-vlmcsd package/vlmcsd
